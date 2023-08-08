@@ -1,6 +1,6 @@
 # WaterEntrySHO
 
-This repository complements the article at [http://arxiv.org/abs/2304.08672](http://arxiv.org/abs/2304.08672). Trial-averaged slamming phase impact acceleration versus time profiles are provided for the water entry of a simple harmonic oscillator with various impact velocities ($V$), spring stiffness values ($k$), nose mass ratios ($\alpha$) and nose radii ($R$). 
+This repository complements the article at [http://arxiv.org/abs/2304.08672](http://arxiv.org/abs/2304.08672). Trial-averaged slamming phase impact acceleration versus time profiles are provided for the water entry of a simple harmonic oscillator with various impact velocities ($V$), spring stiffness values ($k$), nose mass ratios ($\alpha$) and nose radii ($R$).  Additionally, we provide the non-dimensionalized Shiffman and Spencer added mass curves for a rigid sphere, which we utilize in our flexible impact theory.  
 
 ### Supplementary Movie 1
 
@@ -13,7 +13,3 @@ The slamming phase, subsequent air cavity formation, and air cavity pinch off ar
 ### Supplementary Movie 3
 
 The slamming phase, subsequent air cavity formation, and air cavity pinch off are shown for the flexible impactor with $V=$ 4 m/s, $R=$ 22.23 mm, $k=$ 4.29 N/mm and $\alpha$ = 0.12. Filmed at 20,000 frames per second with the camera at the height of the interface.
-
-### Supplementary Figure 1
-
-We modify the Shiffman and Spencer added mass function $\textrm{d}m/\textrm{d}x$ (shown in the inset plot in (b)) in order to match the experimental impact force profile for the rigid impactor (figure 3(b)) at later non-dimensional times and hence account for the contribution of form drag. This change improves the agreement between the predicted and experimentally measured peak impact acceleration as shown in (a), particularly at low $\textrm{R}_\textrm{F}$. Here, the solid black line indicates the prediction from the convolution integral in equation 17 and the dashed and dotted lines correspond to the two-way coupled added mass model from equations 7 and 8. The change in the prediction for the time of the peak acceleration is less pronounced, as shown in (b).
