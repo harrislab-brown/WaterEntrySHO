@@ -1,6 +1,6 @@
 # WaterEntrySHO
 
-This repository complements the article at [http://arxiv.org/abs/2304.08672](http://arxiv.org/abs/2304.08672). Trial-averaged slamming phase impact acceleration versus time profiles are provided for the water entry of a simple harmonic oscillator with various impact velocities ($V$), spring stiffness values ($k$), nose mass ratios ($\alpha$) and nose radii ($R$).  Additionally, we provide the non-dimensionalized Shiffman and Spencer added mass curves for a rigid sphere, which we utilize in our flexible impact theory.  
+This repository complements the article "Slamming forces during water entry of a simple harmonic oscillator" at https://doi.org/10.1017/jfm.2023.820, with pre-print available at [http://arxiv.org/abs/2304.08672](http://arxiv.org/abs/2304.08672). Trial-averaged slamming phase impact acceleration versus time profiles are provided for the water entry of a simple harmonic oscillator with various impact velocities ($V$), spring stiffness values ($k$), nose mass ratios ($\alpha$) and nose radii ($R$).  Additionally, we provide the non-dimensionalized Shiffman and Spencer added mass curves for a rigid sphere, which we utilize in our flexible impact theory.  
 
 ### Supplementary Movie 1
 
